@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img width="64" src="https://github.com/N-D-B-Project/N-D-B/blob/master/Packages/Client/src/common/assets/Images/Logos/Logo.png?raw=true">
+    <img width="64" src="https://github.com/N-D-B-Project/N-D-B/blob/master/src/common/assets/Images/Logos/Logo.png?raw=true">
   </h1>
   🤖 A multipurpose <b><a href="https://discord.com/">Discord</a> bot</b> written in <b><a href="https://necord.org/">Necord Framework</a></b> based on <b><a href="https://discord.js.org/">Discord.js</a></b> and <b><a href="https://nestjs.com/">NestJS</a></b>
   <br/>
